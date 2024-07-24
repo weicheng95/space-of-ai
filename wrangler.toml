@@ -1,0 +1,7 @@
+# Top-level configuration
+name = "ai-aggregator"
+account_id = "65ffffad3e863ae6ed4d708e187284e4"
+workers_dev = true
+
+compatibility_date = "2024-04-05"
+compatibility_flags = [ "nodejs_compat" ]

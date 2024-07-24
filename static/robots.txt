@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Disallow: /*.json$
+Disallow: /*.js$
+
+# Host
+Host: https://spaceofai.tools
+
+# Sitemaps
+Sitemap: https://spaceofai.tools/sitemap.xml

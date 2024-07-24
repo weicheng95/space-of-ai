@@ -1,0 +1,61 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715131662134,
+      "tag": "0000_brown_masked_marvel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715131662135,
+      "tag": "0001_categories",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1715131662136,
+      "tag": "0002_product",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1715131662137,
+      "tag": "0003_product",
+      "breakpoints": true
+    },{
+      "idx": 4,
+      "version": "5",
+      "when": 1715131662138,
+      "tag": "0004_product",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1715131662139,
+      "tag": "0005_product",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1715131662140,
+      "tag": "0006_product",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1715131662141,
+      "tag": "0007_product_index",
+      "breakpoints": true
+    }
+  ]
+}
